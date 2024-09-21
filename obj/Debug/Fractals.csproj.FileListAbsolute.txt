@@ -1,0 +1,6 @@
+D:\Курсовая\Fracrtals\Fractals\Fractals\bin\Debug\Fractals.dll
+D:\Курсовая\Fracrtals\Fractals\Fractals\bin\Debug\Fractals.pdb
+D:\Курсовая\Fracrtals\Fractals\Fractals\obj\Debug\Fractals.csproj.AssemblyReference.cache
+D:\Курсовая\Fracrtals\Fractals\Fractals\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+D:\Курсовая\Fracrtals\Fractals\Fractals\obj\Debug\Fractals.dll
+D:\Курсовая\Fracrtals\Fractals\Fractals\obj\Debug\Fractals.pdb
